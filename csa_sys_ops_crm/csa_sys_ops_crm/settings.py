@@ -32,10 +32,11 @@ INSTALLED_APPS = [
     'equipment',
     'licenses',
     'utilities',
+    'choices',
 
     # API
     'rest_framework',
-    'rest_framework_authotoken',
+    #'rest_framework_authtoken',
     'django_api_gen',
 
     #Third Party Apps
